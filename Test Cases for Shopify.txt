@@ -1,0 +1,47 @@
+Test Cases for Shopify:
+    01. Login Functionality
+    02. Product Creation
+    03. Product Update
+    04. Product Deletion
+    05. Search Functionality
+    06. Add Product to Cart
+    07. Remove Product from Cart
+    08. Checkout Process
+    09. Payment Gateway
+    10. User Registration
+    11. Password Recovery
+    12. Admin Dashboard Access
+    13. User Logout
+    14. Responsive Design
+    15. Navigation Bar
+    16. Contact Form
+    17. Language and Currency Selection
+    18. Order History
+    19. Add Discount Code
+    20. Order Cancellation
+
+
+Login Test Cases
+    01. Valid Login Test: সঠিক ইমেইল ও পাসওয়ার্ড দিয়ে লগইন পরীক্ষা।
+    02. Invalid Email Test: ভুল ইমেইল দিয়ে লগইন পরীক্ষা।
+    03. Invalid Password Test: ভুল পাসওয়ার্ড দিয়ে লগইন পরীক্ষা।
+    04. Empty Email Test: ইমেইল ফিল্ড খালি রেখে লগইন চেষ্টা।
+    05. Empty Password Test: পাসওয়ার্ড ফিল্ড খালি রেখে লগইন চেষ্টা।
+Registration Test Cases
+    06. Valid Registration Test: সঠিক ডাটা দিয়ে রেজিস্ট্রেশন পরীক্ষা।
+    07. Email Already Registered Test: ইতোমধ্যেই রেজিস্টার করা ইমেইল দিয়ে রেজিস্ট্রেশন চেষ্টা।
+    08. Invalid Email Test: ভুল ইমেইল দিয়ে রেজিস্ট্রেশন চেষ্টা।
+    09. Weak Password Test: দুর্বল পাসওয়ার্ড দিয়ে রেজিস্ট্রেশন চেষ্টা।
+    10. Empty Fields Test: সব ফিল্ড খালি রেখে রেজিস্ট্রেশন চেষ্টা।
+Product Management
+    11. Add Product Test: একটি নতুন প্রোডাক্ট অ্যাড করা।
+    12. Edit Product Test: একটি প্রোডাক্ট আপডেট করা।
+    13. Delete Product Test: একটি প্রোডাক্ট ডিলিট করা।
+    14. View Product Test: প্রোডাক্টের বিস্তারিত দেখার টেস্ট।
+    15. Search Product Test: প্রোডাক্ট সার্চ করে দেখার টেস্ট।
+Order Management
+    16. Create Order Test: একটি নতুন অর্ডার তৈরি করা।
+    17. Update Order Test: অর্ডার তথ্য আপডেট করা।
+    18. Delete Order Test: অর্ডার ডিলিট করা।
+    19. View Order Test: অর্ডারের বিস্তারিত দেখার টেস্ট।
+    20. Order Status Test: অর্ডারের স্ট্যাটাস চেক করা।
